@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage EN -->
+  <url>
+    <loc>https://synthetix-lab.vercel.app/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synthetix-lab.vercel.app/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://synthetix-lab.vercel.app/fr/index.html"/>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Services EN -->
+  <url>
+    <loc>https://synthetix-lab.vercel.app/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synthetix-lab.vercel.app/services.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://synthetix-lab.vercel.app/fr/services.html"/>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Case Studies EN -->
+  <url>
+    <loc>https://synthetix-lab.vercel.app/case-studies.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synthetix-lab.vercel.app/case-studies.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://synthetix-lab.vercel.app/fr/case-studies.html"/>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- About EN -->
+  <url>
+    <loc>https://synthetix-lab.vercel.app/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synthetix-lab.vercel.app/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://synthetix-lab.vercel.app/fr/about.html"/>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact EN -->
+  <url>
+    <loc>https://synthetix-lab.vercel.app/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synthetix-lab.vercel.app/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://synthetix-lab.vercel.app/fr/contact.html"/>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Homepage FR -->
+  <url>
+    <loc>https://synthetix-lab.vercel.app/fr/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://synthetix-lab.vercel.app/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synthetix-lab.vercel.app/index.html"/>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Services FR -->
+  <url>
+    <loc>https://synthetix-lab.vercel.app/fr/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://synthetix-lab.vercel.app/fr/services.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synthetix-lab.vercel.app/services.html"/>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Case Studies FR -->
+  <url>
+    <loc>https://synthetix-lab.vercel.app/fr/case-studies.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://synthetix-lab.vercel.app/fr/case-studies.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synthetix-lab.vercel.app/case-studies.html"/>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- About FR -->
+  <url>
+    <loc>https://synthetix-lab.vercel.app/fr/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://synthetix-lab.vercel.app/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synthetix-lab.vercel.app/about.html"/>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact FR -->
+  <url>
+    <loc>https://synthetix-lab.vercel.app/fr/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://synthetix-lab.vercel.app/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://synthetix-lab.vercel.app/contact.html"/>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
