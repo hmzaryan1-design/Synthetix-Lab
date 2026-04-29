@@ -39,7 +39,7 @@ function initContactForm() {
 
     // FORMSPREE — replace YOUR_FORM_ID with your real Formspree form ID
     // Go to formspree.io → New Form → copy your endpoint ID
-    fetch('https://formspree.io/f/xlgayagq', {
+    fetch('https://formspree.io/f/YOUR_FORM_ID', {
       method: 'POST',
       body: formData,
       headers: { 'Accept': 'application/json' }
